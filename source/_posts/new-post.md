@@ -5,7 +5,7 @@ date: '2020-02-02'
 description: Description
 categories:
   - feature
-featured: true
+featured: false
 extends: _layouts.post
 section: content
 ---
